@@ -1,0 +1,10 @@
+.country-details {
+  text-align: center;
+  background: #7f8c8d;
+  color: #fff;
+  height: 800px;
+}
+.country-details img {
+  height: 40%;
+  margin-bottom: 20px;
+}

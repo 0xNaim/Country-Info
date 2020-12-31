@@ -1,0 +1,21 @@
+.content-wrapper .country-info img {
+  width: 150px;
+  height: 80px;
+}
+.content-wrapper .country-info {
+  overflow: hidden;
+}
+.detail-btn {
+  float: right;
+}
+.content-wrapper {
+  padding: 20px;
+  margin-bottom: 30px;
+  box-shadow: 4px 5px 15px grey;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+.content-wrapper .detail-btn {
+  margin-top: -87px;
+  text-transform: capitalize;
+}
